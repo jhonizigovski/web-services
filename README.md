@@ -1,5 +1,7 @@
 # Projeto Web Services - API RESTful para Gestão de Clientes - Projeto em andamento.
 
+Este projeto é uma API RESTful desenvolvida em **Spring Boot** para gerenciar clientes. Ela permite criar, listar, buscar, atualizar e deletar clientes, além de validar dados e tratar exceções específicas.
+
 ## Sumário
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
